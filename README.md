@@ -1,7 +1,7 @@
 # Hello, I'm Neha! 👋
 
 ## About Me
-I'm Neha Ettaleby, a passionate software engineer. I'm deeply interested in building innovative solutions at the intersection of technology and creativity.
+I'm Neha , a passionate software engineer. I'm deeply interested in building innovative solutions at the intersection of technology and creativity.
 
 ## Skills
  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
